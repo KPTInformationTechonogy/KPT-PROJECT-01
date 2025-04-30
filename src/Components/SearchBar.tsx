@@ -2,7 +2,6 @@
 
 import SearchIcon from "@/images/Search.png";
 import Image from "next/image";
-import { useState } from "react";
 import { useRouter } from "next/navigation";
 
 const SearchBar = () => {

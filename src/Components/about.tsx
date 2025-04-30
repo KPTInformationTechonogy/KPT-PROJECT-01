@@ -1,6 +1,4 @@
 import Link from "next/link";
-import Image from "next/image";
-import decoration from "@/images/decoration.webp";
 
 const ProductList = () => {
     return (
